@@ -4,4 +4,5 @@ TypeWriter.ps1
 TypeWriter.sh
 Test.db
 sqlite3.dll
+sqlite3
 Test.db-journal
