@@ -26,11 +26,8 @@ return {
         Socials = {}
     },
 
-    Icon = "", -- Icon for the package, not used normally but can be used by some projects
-    Environment = "*", -- Not used at the moment
     Entrypoints = {
         Main = "ga.corebyte.sqlite.Test"
-        -- CubyPackage = "some.other.entry.caused.by.another.package", -- a package can call another packages entrypoints
     }
 
 }
